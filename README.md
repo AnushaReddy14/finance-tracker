@@ -25,4 +25,4 @@ This is a simple Android app built with Kotlin and Jetpack Compose that allows u
 - Room DB
 - Retrofit
 - Hilt (DI)
-- Coroutines + Flow
+- Coroutines + Flow 
